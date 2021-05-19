@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# El Carro Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
